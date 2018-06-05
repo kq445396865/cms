@@ -1,3 +1,0 @@
-# thinkphp
-thinkphp
-hahahaha
